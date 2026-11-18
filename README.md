@@ -27,3 +27,6 @@ Your input `.xlsx` file should be named after the class (e.g., `ECOM_A.xlsx`) an
    ```bash
    streamlit run app.py
    ```
+
+## Sample Template
+You can use the included `sample_class.xlsx` file to test the app immediately or use it as a template for your own class lists.
