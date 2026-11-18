@@ -4,3 +4,4 @@ venv/
 .venv/
 marks_log.csv
 participation_records.xlsx
+records_*.xlsx
