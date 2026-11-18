@@ -3,3 +3,4 @@ __pycache__/
 venv/
 .venv/
 marks_log.csv
+participation_records.xlsx
